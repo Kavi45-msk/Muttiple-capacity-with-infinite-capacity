@@ -1,5 +1,5 @@
 # Multiple server with infinite capacity - (M/M/c):(oo/FIFO)
-```]
+```
 Name: Kavi M S
 REG NO: 212223220044
 '``
